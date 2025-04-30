@@ -13,6 +13,12 @@ O jogo é uma demonstração básica de um **infinite runner 2D**, com:
 
 Ideal para quem está começando no desenvolvimento com Unity e quer entender o ciclo completo de criação de um jogo simples.
 
+## 📺 Aulas no YouTube
+
+Você pode acompanhar o passo a passo completo de criação deste projeto pela playlist no YouTube:
+
+🔗 **[Clique aqui para acessar a playlist completa](https://www.youtube.com/playlist?list=PLv260ah47r6Lcx6VgeR7BiYDlV7-rggye)**
+
 ## 📂 Conteúdo do Repositório
 
 - `Projeto_Completo/`: todos os arquivos do projeto Unity (.scenes, .prefabs, .scripts, etc.)
