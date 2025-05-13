@@ -3,13 +3,13 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]in/
-/Assets/Tools/UnityVS/
+CourseProject/Assets/Tools/UnityVS/
 
-/Library/
-/Temp/
-/Obj/
-/Build/
-/Logs/
+CourseProject/Library/
+CourseProject/Temp/
+CourseProject/Obj/
+CourseProject/Build/
+CourseProject/Logs/
 
 [Bb]uilds/
 [Ll]ogs/
@@ -36,7 +36,6 @@
 *.VC.db
 .DS_Store
 
-*.dylib
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -47,7 +46,7 @@ sysinfo.txt
 # UnityVS Files
 UnityVS.Source.CSharp
 UnityVS.Source
-Assets/Tools/UnityVS.meta
+CourseProject/Assets/Tools/UnityVS.meta
 
 .vs/
 Logs/
@@ -81,36 +80,14 @@ Thumbs.db
 .vsconfig
 UserSettings/EditorUserSettings.asset
 Screenshot_*
-Docs/obj/
-Screenshots/
-Recordings/
+CourseProject/Docs/obj/
+CourseProject/Screenshots/
+CourseProject/Recordings/
 
-#FMOD/outt
-Packages/packages-lock.json
+CourseProject/Packages/packages-lock.json
 
-# Never ignore DLLs in the FMOD subfolder.
-#!/[Aa]ssets/Plugins/FMOD/**/lib/*
-# Don't ignore images and gizmos used by FMOD in the Unity Editor.
-#!/[Aa]ssets/Gizmos/FMOD/*
-#!/[Aa]ssets/Editor Default Resources/FMOD/*
-# Ignore the Cache folder since it is updated locally.
-#/[Aa]ssets/Plugins/FMOD/Cache/*                 
-# Ignore bank files in the StreamingAssets folder.
-#/[Aa]ssets/StreamingAssets/**/*.bank
-#/[Aa]ssets/StreamingAssets/**/*.bank.meta                
-# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
-# Log files can be ignored.
-#FMOD_proj/
-#Assets/Plugins/FMOD/platforms/**/lib
+CourseProject/Assets/Scenes/Deprecated/
+CourseProject/Assets/Scenes/Deprecated.meta
+CourseProject/UserSettings/
 
-fmod_editor.log
-FMODBanks/
-FMODBanks/.cache/
-Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset
-Fmod/.unsaved/
-
-Assets/Scenes/Deprecated/
-Assets/Scenes/Deprecated.meta
-UserSettings/
-
-Library/PackageCache/
+CourseProject/Library/PackageCache/
